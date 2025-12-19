@@ -16,6 +16,8 @@ Cómo ver el proyecto
 ## Demo 
 Puedes ver la demo del proyecto aquí:
 https://cesargonzalezruizfreelancer.netlify.app/
+## Captura del proyecto
+Vista principal del proyecto (screenshots/home.png)
 ## Autor
 Csar Alan Gonzalez Ruiz  
  LinkedIn: [Cesar Alan Gonzalez Ruiz](https://www.linkedin.com/in/cesar-alan-gonzalez-ruiz-35ab42372)
